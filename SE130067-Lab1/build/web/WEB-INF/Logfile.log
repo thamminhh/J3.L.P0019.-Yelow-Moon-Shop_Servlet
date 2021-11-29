@@ -1,0 +1,1 @@
+ERROR   2021-11-01 12:56:13,253 [http-nio-8080-exec-47] minhtq.controller.ProcessRequestServlet  - com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'User'.
